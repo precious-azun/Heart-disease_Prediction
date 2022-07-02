@@ -1,1 +1,1 @@
-# Heart attack
+# Heart disease
